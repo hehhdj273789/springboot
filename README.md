@@ -1,0 +1,2 @@
+# springboot
+刚学springboot几天，做了个小例子，感觉springboot很好用。相比ssm，springboot除去了很多的繁杂的配置，使用起来非常方便。而且springboot内置了tomcat、jetty这两个web服务器，也不需要你再去配置web服务器，方便刚学springboot或者想学springboot的朋友，下面就带你一步一步做成一个小例子
